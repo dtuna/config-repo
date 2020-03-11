@@ -1,9 +1,9 @@
 my:
-  greeting: Hello World
+  greeting: Hello World from config server
   list:
-    values: Apple, Banana, Orange
+    values: Apple, Banana, Orange, Cherry
  
 db:
   connection: conntention-string-from-config-server
-  host: 127.0.0.1
+  host: 127.0.0.3
   port: 4444
